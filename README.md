@@ -121,4 +121,4 @@ http://localhost:5173
 
 **rakshan K.R**
 
-GitHub:
+GitHub:https://github.com/rakshan-33/rakshan-33-MERN-Food-Ordering-System.git
